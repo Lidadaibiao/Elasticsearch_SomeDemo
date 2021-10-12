@@ -48,7 +48,7 @@ class EsApplicationTests {
     @Autowired
     private RestHighLevelClient restHighLevelClient;
 
-    //测试创建APIrequest
+    //测试创建APIrequest 1111
     @Test
     void contextLoads() throws IOException {
         //1 创建索引请求
